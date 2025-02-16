@@ -1,0 +1,103 @@
+button{
+    cursor:pointer;
+    font-family:
+}
+.top{
+    FLOAT:RIGHT;
+    font-family:arial;
+}
+.logo{
+    float:left;
+    width:20%;
+}
+.logopic{
+    height:90px;
+    margin-bottom:0px;
+    position:absolute;
+}
+.background-pic{
+    background-image:url("");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    margin:0;
+    height:1000px;
+    position:relative;
+    top:70px;
+}
+h2{
+    font-size:60px;
+}
+h1{
+    font-size:120px;
+    position:relative;
+    top:200px;
+    right: 800px;
+}
+
+.intro{
+    text-align:center;
+}
+
+.home:hover button{
+     color:#B8C8B8;
+     
+}
+.inline {
+    
+    display:inline-block;
+    float:right;
+}
+.inlineLeft{
+    display:inline-block;
+    float: left;
+}
+
+
+
+
+
+
+.dropdown:hover button{
+    color:#A7C8B8;
+}
+.dropdown hover{
+    color:grey;
+
+}
+
+.dropdown button{
+    border:none;
+    border-radius: 5px;
+    font-size:40px;
+    background-color:white;
+    color:grey;
+    padding:10px 15px;
+    border:none;
+    cursor:pointer;
+    
+   
+}
+
+
+.dropdown{
+    display:inline-block;
+}
+.explore-button{
+   border:none;
+   background-color:transparent;
+   font-size:70px;
+} 
+
+figure{
+    
+    border:2px solid black;
+    width:35%;
+   
+    padding:50px;
+    overflow:hidden;
+    padding: 10px;
+    border-radius: 6px; 
+    position:relative;
+    top:200px;
+}
